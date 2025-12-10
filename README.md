@@ -20,7 +20,7 @@ Former Systems Engineer @ TCS
 ---
 
 ### 💻 Languages & Frameworks
-<div style="display:flex; align-items:center; gap:14px; flex-wrap:nowrap;">
+<div style="display:flex; align-items:center; gap:18px; flex-wrap:nowrap;">
   <!-- Java -->
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
@@ -40,7 +40,7 @@ Former Systems Engineer @ TCS
 ---
 
 ### 🛠️ IDEs & Tools
-<div style="display:flex; align-items:center; gap:14px; flex-wrap:nowrap;">
+<div style="display:flex; align-items:center; gap:18px; flex-wrap:nowrap;">
   <!-- IntelliJ IDEA -->
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 
@@ -56,14 +56,11 @@ Former Systems Engineer @ TCS
   <!-- Postman -->
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 
-  <!-- Bruno (fixed, reliable SVG) -->
-  <img height="45" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/logo.svg"/>
-
   <!-- Git -->
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-  <!-- GitHub (VISIBLE, replaces black GitHub Desktop icon) -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <!-- GitHub -->
+  <img height="45" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 
   <!-- Eclipse -->
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
@@ -76,8 +73,6 @@ Former Systems Engineer @ TCS
 
 ### 📊 GitHub & Coding Stats
 
-![Prem's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Premkumar0710&show_icons=true&theme=dark&hide=issues,contribs)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mprem799?ext=contest&theme=dark)](https://leetcode.com/u/mprem799/)
 
-[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Premkumar0710&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Premkumar0710&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Premkumar0710/github-readme-activity-graph)
