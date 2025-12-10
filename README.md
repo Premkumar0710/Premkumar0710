@@ -19,28 +19,25 @@ Former Systems Engineer @ TCS
 
 ---
 
-### 💻 Languages & Frameworks
+### 💻 I code in
 <div style="display:flex; align-items:center; flex-wrap:nowrap;">
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
 </div>
 
 ---
 
-### 🛠️ IDEs & Tools
+### 🛠️ IDEs & Tools I Use
 <div style="display:flex; align-items:center; flex-wrap:nowrap;">
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="45" style="margin-right:18px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  <img height="45" style="margin-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
 </div>
 
 ---
@@ -49,5 +46,4 @@ Former Systems Engineer @ TCS
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mprem799?ext=contest&theme=dark)](https://leetcode.com/u/mprem799/)
 
-[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?...)]
-(https://github.com/Premkumar0710/github-readme-activity-graph)
+[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Premkumar0710&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
