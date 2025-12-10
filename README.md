@@ -21,24 +21,24 @@ Former Systems Engineer @ TCS
 
 ### 💻 I code in
 <div style="display:flex; align-items:center; flex-wrap:nowrap;">
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
 </div>
 
 ---
 
 ### 🛠️ IDEs & Tools I Use
 <div style="display:flex; align-items:center; flex-wrap:nowrap;">
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" style="margin-right:14px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
 </div>
 
 ---
