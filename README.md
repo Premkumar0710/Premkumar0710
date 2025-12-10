@@ -20,26 +20,35 @@ Former Systems Engineer @ TCS
 ---
 
 ### 💻 Languages & Frameworks
-<img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img height="45" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img height="45" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="45" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="45" src="https://img.icons8.com/color/48/000000/junit.png"/>
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:nowrap;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" />
+</div>
 
 ---
 
 ### 🛠️ IDEs & Tools
-<img height="45" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img height="45" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
-<img height="45" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/logo.png"/>
-<img height="45" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="45" src="https://img.icons8.com/fluency/48/github.png"/>
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:nowrap;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img height="45" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/logo.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+</div>
 
 ---
 
 ### 📊 GitHub & Coding Stats
 
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premkumar0710&theme=dark&show_icons=true&hide=issues,contribs)
+![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premkumar0710&show_icons=true&theme=dark&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mprem799?ext=contest&theme=dark)](https://leetcode.com/u/mprem799/)
 
