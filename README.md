@@ -24,6 +24,7 @@ Former Systems Engineer @ TCS
   <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   <img height="40" style="margin-right:14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
 </div>
