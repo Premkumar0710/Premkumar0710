@@ -1,7 +1,7 @@
 ## Hi, I'm Prem 👋  
 
-Backend Engineer | Java • Kotlin • Spring Boot  
-Former Systems Engineer @ TCS  
+Backend Engineer | Java • Spring Boot • Rest APIs  
+Software Engineer II @ American Express 
 
 <img align="right" width="360" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
